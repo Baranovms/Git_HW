@@ -39,9 +39,9 @@ https://www.freepik.com/search?format=search&orientation=portrait&query=products
 
 4. Задать стиль
 
-a {
-text-decoration: none;
-}
+* a {
+* text-decoration: none;
+* }
 
 
 5. Проверить работу стилей на всех страницах.
