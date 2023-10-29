@@ -5,18 +5,13 @@ html {
     padding: 0;
 }
 
-body {
-    width: 1800px;
-    margin: 0 auto;
-}
-
 .menu {
     margin: 10px auto;
     width: 300px;
     height: 100px;
     padding-top: 30px;
 }
-
+ 
 .products {
     column-count: 3;
 }
@@ -24,6 +19,7 @@ body {
 .value {
     width: 500px;
 }
+
 .value img {
     width: 300px;
     height: 400px;
